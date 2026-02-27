@@ -1,5 +1,6 @@
 package com.shortener;
 
+
 import java.util.Random;
 
 public class HashGenerator {

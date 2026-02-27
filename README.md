@@ -2,7 +2,7 @@
 A simple, fast, and functional **URL Shortener** built using **Java, JSP, Servlets, JDBC, MySQL, and Apache Tomcat**.  
 This project converts long URLs into short codes and provides redirect functionality similar to Bitly.
 
----
+
 
 ## 🚀 Features
 - Convert **long URLs → short URLs** using a unique hash generator  
